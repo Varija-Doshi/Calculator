@@ -5,7 +5,9 @@ This is simple calculator.
 It uses the following flutter packages:
 - [google_fonts]
 - [math_expressions]
-UI looks as follows: 
+
+
+[UI looks as follows:]
 ![Calculator](/assets/Calculator.png)
 
 ## Getting Started

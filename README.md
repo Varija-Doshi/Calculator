@@ -1,6 +1,12 @@
 # Calculator
 
 A new Flutter project.
+This is simple calculator.
+It uses the following flutter packages:
+google_fonts
+math_expressions
+UI looks as follows: 
+(/assets/Calculator.png)
 
 ## Getting Started
 

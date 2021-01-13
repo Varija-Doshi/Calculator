@@ -8,6 +8,8 @@ It uses the following flutter packages:
 
 
 [UI looks as follows:]
+
+
 ![Calculator](/assets/Calculator.png)
 
 ## Getting Started
